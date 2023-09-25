@@ -91,6 +91,11 @@ img {
     height: auto;
 }
 
+iframe {
+    width: auto;
+    height: auto;
+}
+
 /* Site navigation*/
 .sitenav {
     margin-top: 20px;
